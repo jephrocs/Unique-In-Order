@@ -4,9 +4,9 @@ Implement the function unique_in_order which takes as argument a sequence and re
 
 For example:
 
->niqueInOrder('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
+>uniqueInOrder('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
 
->niqueInOrder('ABBCcAD')         == ['A', 'B', 'C', 'c', 'A', 'D']
+>uniqueInOrder('ABBCcAD')         == ['A', 'B', 'C', 'c', 'A', 'D']
 
->niqueInOrder([1,2,2,3,3])       == [1,2,3]
+>uniqueInOrder([1,2,2,3,3])       == [1,2,3]
 
